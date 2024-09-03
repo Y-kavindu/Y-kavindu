@@ -8,7 +8,8 @@
 </picture> 
 <h3 align="left">About me</h3>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-- 🔭 I’m currently working on **AI-Powered Eye Diseases Diagnosis System**
+
+- 🔭 I’m currently working on  **AI-Powered Eye Diseases Diagnosis System**
 
 - 🌱 I’m currently learning **Opencv**
 
